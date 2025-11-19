@@ -1,5 +1,8 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<div align="center">
+  <img src="https://i.ibb.co/MykzM02q/Md-Yeamin-Chowdhury.png" alt="Hello world" width="100%">
+</div>
+
 
 <br/>
 
